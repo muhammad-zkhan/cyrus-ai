@@ -1,0 +1,10 @@
+.env
+google_client_secret.json
+*.json
+venv/
+venv313/
+__pycache__/
+*.pyc
+*.mp3
+*.wav
+*.db
